@@ -1,2 +1,2 @@
-Vegard : 15, 12, 18, 20, 25 ; Pasta, Kider maxi, Kinder maxi, Cocio, Lasagne ; 1, 2, 3, 1, 1
+Vegard : 15, 12, 18, 20, 25 ; Pasta, Kinder maxi, Kinder maxi, Cocio, Lasagne ; 1, 2, 3, 1, 1
 Lorgen : 12 ; Kopp ; 1
