@@ -1,0 +1,17 @@
+#Antar at d er et tomt dictionary
+# Antar forsjkell på store og små bokstaver
+# Antar at dictionary ikke skal returnes
+
+def letter_count(s, d, n=0):
+    if n == len(s):
+        return
+    
+    bokstav = s[n]
+
+    if bokstav not in d:
+        d[bokstav] = 1
+    
+    else:
+        d[bokstav] += 1
+
+    letter_count(s, d, n + 1)
